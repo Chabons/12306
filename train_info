@@ -1,0 +1,191 @@
+[
+    {
+        "station_no": "01", 
+        "train_class_name": "高速", 
+        "start_time": "06:11", 
+        "station_train_code": "G1321", 
+        "arrive_time": "----", 
+        "start_station_name": "上海虹桥", 
+        "service_type": "2", 
+        "station_name": "上海虹桥", 
+        "end_station_name": "贵阳北", 
+        "isEnabled": true, 
+        "stopover_time": "----"
+    }, 
+    {
+        "station_no": "02", 
+        "isEnabled": true, 
+        "arrive_time": "06:44", 
+        "station_name": "桐乡", 
+        "start_time": "06:46", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "03", 
+        "isEnabled": true, 
+        "arrive_time": "07:03", 
+        "station_name": "杭州东", 
+        "start_time": "07:06", 
+        "stopover_time": "3分钟"
+    }, 
+    {
+        "station_no": "04", 
+        "isEnabled": true, 
+        "arrive_time": "07:29", 
+        "station_name": "诸暨", 
+        "start_time": "07:31", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "05", 
+        "isEnabled": true, 
+        "arrive_time": "07:56", 
+        "station_name": "金华", 
+        "start_time": "07:58", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "06", 
+        "isEnabled": true, 
+        "arrive_time": "08:13", 
+        "station_name": "龙游", 
+        "start_time": "08:15", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "07", 
+        "isEnabled": true, 
+        "arrive_time": "08:26", 
+        "station_name": "衢州", 
+        "start_time": "08:28", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "08", 
+        "isEnabled": true, 
+        "arrive_time": "08:43", 
+        "station_name": "江山", 
+        "start_time": "08:46", 
+        "stopover_time": "3分钟"
+    }, 
+    {
+        "station_no": "09", 
+        "isEnabled": true, 
+        "arrive_time": "09:06", 
+        "station_name": "上饶", 
+        "start_time": "09:08", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "10", 
+        "isEnabled": true, 
+        "arrive_time": "09:34", 
+        "station_name": "鹰潭北", 
+        "start_time": "09:36", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "11", 
+        "isEnabled": true, 
+        "arrive_time": "10:11", 
+        "station_name": "南昌西", 
+        "start_time": "10:15", 
+        "stopover_time": "4分钟"
+    }, 
+    {
+        "station_no": "12", 
+        "isEnabled": false, 
+        "arrive_time": "10:47", 
+        "station_name": "新余北", 
+        "start_time": "10:49", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "13", 
+        "isEnabled": false, 
+        "arrive_time": "11:04", 
+        "station_name": "宜春", 
+        "start_time": "11:06", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "14", 
+        "isEnabled": false, 
+        "arrive_time": "11:30", 
+        "station_name": "醴陵东", 
+        "start_time": "11:32", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "15", 
+        "isEnabled": false, 
+        "arrive_time": "11:57", 
+        "station_name": "长沙南", 
+        "start_time": "12:02", 
+        "stopover_time": "5分钟"
+    }, 
+    {
+        "station_no": "16", 
+        "isEnabled": false, 
+        "arrive_time": "12:25", 
+        "station_name": "韶山南", 
+        "start_time": "12:27", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "17", 
+        "isEnabled": false, 
+        "arrive_time": "12:44", 
+        "station_name": "娄底南", 
+        "start_time": "12:46", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "18", 
+        "isEnabled": false, 
+        "arrive_time": "13:10", 
+        "station_name": "新化南", 
+        "start_time": "13:12", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "19", 
+        "isEnabled": false, 
+        "arrive_time": "13:45", 
+        "station_name": "怀化南", 
+        "start_time": "13:48", 
+        "stopover_time": "3分钟"
+    }, 
+    {
+        "station_no": "20", 
+        "isEnabled": false, 
+        "arrive_time": "14:12", 
+        "station_name": "新晃西", 
+        "start_time": "14:14", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "21", 
+        "isEnabled": false, 
+        "arrive_time": "14:33", 
+        "station_name": "三穗", 
+        "start_time": "14:35", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "22", 
+        "isEnabled": false, 
+        "arrive_time": "15:18", 
+        "station_name": "贵定北", 
+        "start_time": "15:20", 
+        "stopover_time": "2分钟"
+    }, 
+    {
+        "station_no": "23", 
+        "isEnabled": false, 
+        "arrive_time": "15:40", 
+        "station_name": "贵阳北", 
+        "start_time": "15:40", 
+        "stopover_time": "----"
+    }
+]
